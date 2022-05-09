@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Note
+  - keypad
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 0
+  - Clear
+  - B
+  - K
+  - O
+  - C
+  - A
+  - T
+  - E
+  - S
+  - '-'
+  - Word
+  - R
+  - Closet
+  - D
+  - U
+  - P
+  - N
+  - Enter
+  - M
+  - I
+  - W
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Interact
+  - Water
+  - UI
+  - Words
+  - Duck
+  - PostProcessing
+  - StopRay
+  - Keys
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
